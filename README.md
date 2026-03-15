@@ -21,7 +21,7 @@ An AI-powered web app that takes your study notes or PDFs and automatically gene
 
 ## 🖥️ Live Demo
 
-🔗 [studyai.vercel.app](https://studyai.vercel.app) ← replace with your actual Vercel URL
+🔗 https://studyai-lilac.vercel.app/
 
 ---
 
